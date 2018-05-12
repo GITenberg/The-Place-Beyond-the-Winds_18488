@@ -1,0 +1,33 @@
+_repo: The-Place-Beyond-the-Winds_18488
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Potter, Harry Spafford
+    birthdate: 1873
+    deathdate: 1940
+    gutenberg_agent_id: '8062'
+    url: http://www.gutenberg.org/2009/agents/8062
+covers:
+- cover_type: archival
+  image_path: 18488-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Comstock, Harriet T. (Harriet Theresa)
+    alias: Comstock, Harriet Theresa Smith
+    birthdate: 1860
+    gutenberg_agent_id: '5719'
+    url: http://www.gutenberg.org/2009/agents/5719
+description: ''
+gutenberg_issued: '2006-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Place Beyond the Winds
+url: http://www.gutenberg.org/ebooks/18488
